@@ -14,6 +14,14 @@ This is a memory game with React. This breaks up your application's UI into comp
 
 User trys to click through all 12 images without clicking the same image twice!
 
+### Before You Begin
+
+- You will need to `git clone` https://github.com/DaniBlaney/LotRclickygame.git the repository onto your own machine.
+
+- Run `yarn install` while in the repository inside of your terminal/git bash. This will load of the necessary packages in order for your server to run error-free. This project relies on the following dependencies:
+
+- Then run `yarn start` and visit `localhost:3000` in your browser.
+
 ![img](public/images/lotrscreenshot.png)
 
 
