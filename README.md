@@ -2,6 +2,8 @@
 
 https://daniblaney.github.io/LotRclickygame/
 
+https://lotrclickygame.herokuapp.com/
+
 This is a memory game with React. This breaks up your application's UI into components, manages component state, and responds to user events.
 
 * The application keeps track of the user's score. The user's score is incremented when clicking an image for the first time.
