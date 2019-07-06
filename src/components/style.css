@@ -1,3 +1,8 @@
+@font-face {
+  font-family: Ringbearer;
+  src: url(/public/images/RINGM___.TTF);
+  }
+
 .NavBar {
   background: #3353a4;
   width: 100%;
