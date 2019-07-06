@@ -16,7 +16,8 @@
   font-family: 'Ringbearer';
 }
 .score {
-  text-align: right;
+  width: 100%;
+  text-align: center;
   line-height: 40px;
   background: #f1c605;
   color: #fff;
@@ -29,7 +30,7 @@
   min-height: 55px;
   width: 100%;
   color: #fff;
-  font-size: 35px;
+  font-size: 30px;
   font-family: 'Ringbearer';
 }
 .info{
