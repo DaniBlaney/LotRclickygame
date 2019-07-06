@@ -1,4 +1,4 @@
-# LotR Clicky Game 🧝🌋
+# LotR Clicky Game 🌋
 
 This is a memory game with React. This breaks up your application's UI into components, manages component state, and responds to user events. 
 
