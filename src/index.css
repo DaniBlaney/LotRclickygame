@@ -1,8 +1,17 @@
+/* @font-face {
+  font-family: Ringbearer;
+  src: url(/public/images/RINGM___.TTF);
+  } */
+  @font-face {
+    font-family: 'Ringbearer';
+    src: local('RINGM___.TTF'),
+         url('/public/images/RINGM___.TTF') format('truetype');
+    font-style: normal;
+ }
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
+  font-family: Ringbearer;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

@@ -1,13 +1,10 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 import React from "react";
-import NavBar from './components/NavBar';
-import Instructions from './components/Instructions';
-import Wrapper from "./components/Wrapper";
-import ImageWrapper from "./components/ImagePanel/ImageWrapper";
-import Footer from "./components/Footer";
-import images from "./friends.json";
+import NavBar from './components/nav';
+import Instructions from './components/instructions';
+import Wrapper from "./components/wrapper";
+import ImageWrapper from "./components/imageContainer/imageWrapper";
+import Footer from "./components/footer";
+import images from "./lotr.json";
 import "./components/style.css";
 
 

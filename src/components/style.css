@@ -1,5 +1,15 @@
+@font-face {
+  font-family: 'Ringbearer';
+  src: local('RINGM___.TTF'),
+       url("/public/fonts/ringbearer/RINGM___.TTF")
+       format('truetype');
+  }
+.h1{
+  font-family: 'Ringbearer';
+  font-size: 55px;
+}
 .NavBar {
-  background: #3353a4;
+  background: #f1c605;
   width: 100%;
   box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
   color: #fff;
@@ -8,29 +18,37 @@
 }
 .score {
   text-align: right;
-  line-height: 20px;
-  background: #3353a4;
+  line-height: 40px;
+  background: #f1c605;
   color: #fff;
   font-size: 25px;
-  font-family: 'Ringbearer';
 
 }
 .instructions{
   text-align: center;
-  background: #142c68;
-  min-height: 20px;
+  background: #f1c6056b;
+  min-height: 55px;
   width: 100%;
   box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
   color: #fff;
-  font-size: calc(10px + 14 * (100vw - 320px)/ 800);
+  font-size: 25px;
+  /* font-size: calc(10px + 14 * (100vw - 320px)/ 800); */
   font-family: 'Ringbearer';
+}
+.info{
+  color: rgb(133, 132, 132);
+  text-shadow: black;
+  background: #eee2ae;
+  font-size: 20px;
+  min-height: 30px;
 }
 .footer {
   font-family: 'Ringbearer';
-  background: #3353a4;
+  background: #f1c605;
   min-height: 70px;
   width: 100%;
   box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
   color: #fff;
   font-size: 25px;
+  margin-top: 5px;
 }
