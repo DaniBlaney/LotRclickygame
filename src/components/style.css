@@ -18,11 +18,10 @@
 }
 .score {
   text-align: right;
-  line-height: 20px;
+  line-height: 40px;
   background: #f1c605;
   color: #fff;
   font-size: 25px;
-  font-family: 'Ringbearer';
 
 }
 .instructions{
