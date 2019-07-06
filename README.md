@@ -1,3 +1,21 @@
+# LotR Clicky Game 🧝🌋
+
+This is a memory game with React. This breaks up your application's UI into components, manages component state, and responds to user events. 
+
+* The application keeps track of the user's score. The user's score is incremented when clicking an image for the first time. 
+
+* The user's score will reset to 0 if they click the same image more than once.
+
+* Every time an image is clicked, the images rendered to the page should shuffle themselves in a random order.
+
+* Once the user's score is reset after an incorrect guess, the game should restart.
+
+User trys to click through all 12 images without clicking the same image twice!
+
+
+
+
+------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
