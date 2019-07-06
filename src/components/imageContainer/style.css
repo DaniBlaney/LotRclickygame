@@ -1,0 +1,13 @@
+.LOTR {
+  background: #fff;
+  height: 200px;
+  margin: 1rem;
+  width: 200px;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+}
+
+.wrapper{
+  margin-right: 150px;
+  margin-left: 150px;
+
+}

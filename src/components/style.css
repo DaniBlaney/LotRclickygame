@@ -1,0 +1,36 @@
+.NavBar {
+  background: #3353a4;
+  width: 100%;
+  box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+  color: #fff;
+  font-size: 25px;
+  font-family: 'Ringbearer';
+}
+.score {
+  text-align: right;
+  line-height: 20px;
+  background: #3353a4;
+  color: #fff;
+  font-size: 25px;
+  font-family: 'Ringbearer';
+
+}
+.instructions{
+  text-align: center;
+  background: #142c68;
+  min-height: 20px;
+  width: 100%;
+  box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+  color: #fff;
+  font-size: calc(10px + 14 * (100vw - 320px)/ 800);
+  font-family: 'Ringbearer';
+}
+.footer {
+  font-family: 'Ringbearer';
+  background: #3353a4;
+  min-height: 70px;
+  width: 100%;
+  box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+  color: #fff;
+  font-size: 25px;
+}
