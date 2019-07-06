@@ -2,9 +2,9 @@
 
 https://daniblaney.github.io/LotRclickygame/
 
-This is a memory game with React. This breaks up your application's UI into components, manages component state, and responds to user events. 
+This is a memory game with React. This breaks up your application's UI into components, manages component state, and responds to user events.
 
-* The application keeps track of the user's score. The user's score is incremented when clicking an image for the first time. 
+* The application keeps track of the user's score. The user's score is incremented when clicking an image for the first time.
 
 * The user's score will reset to 0 if they click the same image more than once.
 
@@ -14,7 +14,7 @@ This is a memory game with React. This breaks up your application's UI into comp
 
 User trys to click through all 12 images without clicking the same image twice!
 
-
+![img](public/images/lotrscreenshot.png)
 
 
 ------------------------------------------------------------------------------------------------------
