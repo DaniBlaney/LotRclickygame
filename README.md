@@ -18,7 +18,7 @@ User trys to click through all 12 images without clicking the same image twice!
 
 - You will need to `git clone` https://github.com/DaniBlaney/LotRclickygame.git the repository onto your own machine.
 
-- Run `yarn install` while in the repository inside of your terminal/git bash. This will load of the necessary packages in order for your server to run error-free. This project relies on the following dependencies:
+- Run `yarn install` while in the repository inside of your terminal/git bash. This will load of the necessary packages in order for your server to run error-free. 
 
 - Then run `yarn start` and visit `localhost:3000` in your browser.
 
