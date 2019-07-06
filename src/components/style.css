@@ -1,8 +1,8 @@
 @font-face {
   font-family: 'Ringbearer';
   src: local('RINGM___.TTF'),
-       url("/public/fonts/ringbearer/RINGM___.TTF") format('truetype'),
-       url('/public/fonts/ringbearer/RINGM___.woff') format('font-woff');
+       url("/public/fonts/ringbearer/RINGM.TTF") format('truetype'),
+       url('/public/fonts/ringbearer/RINGM.woff') format('font-woff');
   }
 .h1{
   font-family: 'Ringbearer';
