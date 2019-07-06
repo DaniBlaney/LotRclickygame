@@ -3,7 +3,7 @@ import NavBar from './components/nav';
 import Instructions from './components/instructions';
 import Wrapper from "./components/wrapper";
 import ImageWrapper from "./components/imageContainer/imageWrapper";
-import Footer from "./components/Footer";
+import Footer from "./components/footer";
 import images from "./lotr.json";
 import "./components/style.css";
 

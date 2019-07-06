@@ -2,12 +2,13 @@
   background: #fff;
   height: 200px;
   margin: 1rem;
-  width: 200px;
+  width: 250px;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  align-content: center;
 }
 
 .wrapper{
-  margin-right: 150px;
-  margin-left: 150px;
+  margin-right: 200px;
+  margin-left: 200px;
 
 }
