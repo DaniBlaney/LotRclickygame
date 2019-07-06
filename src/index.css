@@ -1,17 +1,13 @@
-/* @font-face {
-  font-family: Ringbearer;
-  src: url(/public/images/RINGM___.TTF);
-  } */
+
   @font-face {
     font-family: 'Ringbearer';
     src: local('RINGM___.TTF'),
          url('/public/images/RINGM___.TTF') format('truetype');
-    font-style: normal;
  }
 
 body {
   margin: 0;
-  font-family: Ringbearer;
+  font-family: 'Ringbearer';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
