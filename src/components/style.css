@@ -35,6 +35,13 @@
   /* font-size: calc(10px + 14 * (100vw - 320px)/ 800); */
   font-family: 'Ringbearer';
 }
+.info{
+  color: rgb(133, 132, 132);
+  text-shadow: black;
+  background: #eee2ae;
+  font-size: 20px;
+  min-height: 30px;
+}
 .footer {
   font-family: 'Ringbearer';
   background: #f1c605;
